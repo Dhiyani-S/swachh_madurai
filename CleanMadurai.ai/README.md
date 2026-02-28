@@ -35,3 +35,17 @@ VITE_GEMINI_API_KEY=your_gemini_api_key_here
 -   **Worker App:** Mobile-first design with QR code identification and task management.
 -   **Shop Owner Portal:** Request pickups, pay fees, and download PDF receipts.
 -   **IoT Simulation:** Real-time simulation of smart bins and public toilets.
+
+
+DEMO:
+
+DEMO CREDENTIALS (judges use these)
+commissioner@cleanmadurai.ai  -   CleanMadurai@2026
+  ZoneAdmin
+zoneadmin@cleanmadurai.ai -   CleanMadurai@2026
+  Ward Admin
+wardadmin@cleanmadurai.ai -   CleanMadurai@2026
+  Worker
+worker@cleanmadurai.ai -   CleanMadurai@2026
+  Shop Owner
+shopowner@cleanmadurai.ai -   CleanMadurai@2026
